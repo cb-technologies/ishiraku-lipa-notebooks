@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ishiraku-analytics",
+  "private_key_id": "12b7a5bdc911ac4054a038c806176b693bf1b3f7",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDHNlBpUTU1bRp2\nRwafdHdkNdH01bKduIfWUd/kH0tKex1uAXQyGzpS+h/yvYvJ7ZzviTghuX5pfYrH\nZpWNjkUvD7BUZ87ssY8qqON9NV/UbUY4/xqZ9PIYuz6Y0s4DD0kHWJbGE+edCCGq\nvtXK8/xTa/ezbh8YNWeoMyLnRFqIC8eALDh9EwUxId7PXWmBd8g3zFVE4d52sQcU\n7BX7Gc5DTa/DYthDOrMZtjMy2wYG8TFpvdJCxNU6zpHbbMGexXvau2OyNX783UIl\nHH5lLztDOn178tzIf55BA0XfvFxrtCde4eZR4LyPG5uNmo75deJX/bb/eIxrM6ap\nf5oVq1ijAgMBAAECggEANMeXo2egHNEUvzyPLSUK0tKNl3wc0DvJRYe4tXRzGr8m\nq3QYKIRdPgnF+CavCCd7ul0VMZ43N1TLNYxg2DnW66KQ+bPtN3nNsCRB7XT8OEhh\nYA16q0qh79qAObY0XcwpcZhPjhhM96ZlYRshgp2E/0cuP+xPsbbIiWBPAY3zHHLm\nbqVZtkdKBu4BMZbY+bnwIIMadrPhKBmqb/7go9zkxJTxnVtcT7QbQdl0sFxmR45q\nfH5d1XI4cUaJFJr1+uHyZc7rrCkkpNbEh9TZlCG1jRuGI34n6UQGPKmmqqrmgf4F\nI6cmzI22hqZZBNdBHuSP0j+75doF3kVHjoMDpSIGZQKBgQD1C30zjHo8A+dNijsO\nGJ8UEdrxknUjUwiJH6ENpry3KX3Z5QwUygQfRugFJK/s0YZy0WQs5E5FKyoqZ9jp\nQny/WGsFR+IjERat2NLmwfLhhSaj7wtu276ctk6GbN+8emjknQaLJErtLrpDjLrM\nPth1szIjY0je3G/sIhD9xyNfdwKBgQDQHkZZcrV1JHh7NHVoGkliNEUxN8SVKP96\ngXwtoJKZoENCi9s7aVfLl3d8tScZ1BtExxbnhM90ECiW98o1+EAEzsi+M/+POpic\nWpkN2/b6tytH9Ret3Il1pu1I2qQNFVs54u4FsRrkSO61wysOgFpf9a15tjW2U2W7\nyQo4IwNTNQKBgQDu1ZfeGlk5DYTwKn6MqqrB4PVI5rqNB20WWWGb8JuW2jXzni88\nQ/noki+qc6uUYlNsrXG533v6JqweUME1+LultAP7Tai3DPzRzLcien7EGAclWOQH\n1N3f2ECI/KzFA3og+HtcOq9cpWKeXBfk4owPi+yeWTK5JJlhyYJOFz3+2QKBgCXv\nfs9LM3xY24VJuKTzNbEq6fngunqd8IO6GpKOlGpgZiI5MAsSVqiLwYH/21K/8QCG\nccxdzxrO3zc1j6xqxfCaaMkS3WCUQ8EsWn3GPKzSupbxPBG7A2totBP1lrWz0N8q\nWEy9TbOS/8AuBSktiEu5kpd++Sd06DRknvJAn5iJAoGBAIdrg0gnmbm6ri3e+Uma\nrJm+J424IUNAQgwB232RO/O8gFiaz7XzT8xmxwKVGFaOG9pLbmfCH5AEtUHqwFnB\naovd/kyr+m/7SRxm/u+ZGgRl+CsRXs2+VViYeBh0DXYhdYoX3XJSuLFdPCn1d65U\n/DjEZrKgpijQv4q4f9tprhET\n-----END PRIVATE KEY-----\n",
+  "client_email": "ishiraku-analytics@ishiraku-analytics.iam.gserviceaccount.com",
+  "client_id": "106270497427075776869",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ishiraku-analytics%40ishiraku-analytics.iam.gserviceaccount.com"
+}
